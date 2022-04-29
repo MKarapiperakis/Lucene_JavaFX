@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>EMHART CORP <EMH> QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 35 cts vs 35 cts prior
+    Payable March 31
+    Record March nine
+
+ Reuter
+</BODY>

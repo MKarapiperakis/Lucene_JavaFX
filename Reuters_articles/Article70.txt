@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TULTEX CORP <TTX> SETS QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div eights cts vs eight cts prior
+    Pay April one
+    Record March 13
+ Reuter
+</BODY>

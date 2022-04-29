@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SYSTEMATICS INC <SYST> REGULAR PAYOUT</TITLE>
+<BODY>Qtly div three cts vs three cts prior
+    Pay March 13
+    Record February 27
+ Reuter
+</BODY>
