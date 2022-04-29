@@ -4,4 +4,4 @@ Created By [Karapiperakis Emmanouil](https://github.com/MKarapiperakis) and [Pap
 
 ## Description
 
-An advanced Information Retrieval and Mining Application that uses **Apache Lucene** and **JavaFX** to create a search engine that finds information patterns inside Reuters Articles with specific format.
+An advanced Information Retrieval and Mining Application that uses **Apache Lucene** and **JavaFX** to create a search engine, that spots information patterns(Places, People,Title,Body) inside Reuters Articles with specific format.
